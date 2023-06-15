@@ -19,6 +19,9 @@ Error Handling layer for Operational and Programming errors.
 Modelling Data with best practice relationships between models.
 Using Referencing and Embedding according to the relationship type and Read/Write ratio.
 
+# Postman Documentation for all APIs:
+  https://documenter.getpostman.com/view/24927139/2s93m34j8T
+
 ![Data Model](https://github.com/AhmedEliwa95/Tours-Application/assets/111222351/346ba376-4f48-48c5-bf14-2683a514c188)
 
 
